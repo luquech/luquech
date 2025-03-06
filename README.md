@@ -8,7 +8,7 @@
 
 ## 📚 Formação Acadêmica  
 🎓 **Bacharelado em Engenharia de Computação** – Instituto Federal da Paraíba (IFPB)  
-📅 *Jan de 2020 a Dez de 2025*  
+📅 *Jan de 2020 a Dez de 2026*  
 
 🎓 **Curso Técnico em Desenvolvimento de Sistemas** – ETEPAC  
 📅 *Ago de 2018 a Dez de 2022*  
