@@ -24,8 +24,10 @@
 
 ## 🛠 Habilidades Técnicas  
 🔹 **Linguagens:** Java, Python, C/C++  
-🔹 **Banco de Dados:** MySQL  
+🔹 **Frameworks:** Spring Boot (JPA, Hibernate, REST APIs)  
+🔹 **Banco de Dados:** MySQL   
 🔹 **Bibliotecas:** Pandas, Plotly  
+
 
 ---
 
