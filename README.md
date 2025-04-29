@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Anderson Lucas Cordeiro Braz!
 
 🎓 Estudante de **Engenharia de Computação** no Instituto Federal da Paraíba (IFPB).  
-💻 Apaixonado por **desenvolvimento de sistemas** e entusiasta de **cibersegurança e ciência de dados**.  
-🚀 Buscando oportunidades de **estágio** para aplicar meus conhecimentos em **Java, Python e C/C++**.  
 
 ---
 
