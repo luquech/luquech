@@ -50,8 +50,5 @@
 ## 📫 Contato  
 📍 **Campina Grande, Paraíba, Brasil**  
 🔗 **LinkedIn:** [Anderson Lucas Cordeiro Braz](https://www.linkedin.com/in/anderson-lucas-cordeiro-braz-47169a281/)  
-💻 **GitHub:** [@luquech](https://github.com/luquech)  
 
----
 
-*🚀 Sempre aberto a novas oportunidades e desafios!*  
