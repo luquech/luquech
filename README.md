@@ -1,12 +1,13 @@
 # 👋 Olá, eu sou Anderson Lucas Cordeiro Braz!
 
-🎓 Estudante de **Engenharia de Computação** no Instituto Federal da Paraíba (IFPB).  
+🎓 Estudante de **Engenharia de Computação** em Instituto Federal da Paraíba (IFPB).
+🎓 Técnico de **Técnico em Tecnologia da Informação** em Universidade Federal de Campina Grande (UFCG).
 
 ---
 
 ## 📚 Formação Acadêmica  
 🎓 **Bacharelado em Engenharia de Computação** – Instituto Federal da Paraíba (IFPB)  
-📅 *Jan de 2020 a Dez de 2025*  
+📅 *Jan de 2020 a Jun de 2026*  
 
 🎓 **Curso Técnico em Desenvolvimento de Sistemas** – ETEPAC  
 📅 *Ago de 2018 a Dez de 2022*  
@@ -21,8 +22,8 @@
 ---
 
 ## 🛠 Habilidades Técnicas  
-🔹 **Linguagens:** Java, Python, C/C++  
-🔹 **Frameworks:** Spring Boot (JPA, Hibernate, REST APIs)  
+🔹 **Linguagens:** Java, Python, C/C++, PHP  
+🔹 **Frameworks:** Spring Boot (JPA, Hibernate, REST APIs), Joomla, GLPI  
 🔹 **Banco de Dados:** MySQL   
 🔹 **Bibliotecas:** Pandas, Plotly, Numpy  
 
