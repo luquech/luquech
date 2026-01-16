@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Anderson Lucas Cordeiro Braz!
 
 🎓 Estudante de **Engenharia de Computação** em Instituto Federal da Paraíba (IFPB).
+
 🎓 Técnico de **Técnico em Tecnologia da Informação** em Universidade Federal de Campina Grande (UFCG).
 
 ---
