@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Anderson Lucas Cordeiro Braz!
 
-🎓 Estudante de **Engenharia de Computação** em Instituto Federal da Paraíba (IFPB).
+🎓 Barachel em **Engenharia de Computação** pelo Instituto Federal da Paraíba (IFPB).
 
 💼 **Técnico em Tecnologia da Informação** em Universidade Federal de Campina Grande (UFCG).
 
@@ -17,16 +17,14 @@
 
 ## 🏆 Certificações  
 ✔️ **Cybersecurity Essentials** – Cisco Networking Academy (*Ago de 2024*)  
-✔️ **Analyzing Police Activity with pandas** – DataCamp (*Mai de 2021*)  
-✔️ **Introduction to Data Visualization with Plotly in Python** – DataCamp (*Mar de 2021*)  
-
+✔️ **DataCamp Data Scientist Associate** – DataCamp (*Jul de 2026*) 
 ---
 
 ## 🛠 Habilidades Técnicas  
 🔹 **Linguagens:** Java, Python, C/C++, PHP  
 🔹 **Frameworks:** Spring Boot (JPA, Hibernate, REST APIs), Joomla, GLPI  
 🔹 **Banco de Dados:** MySQL   
-🔹 **Bibliotecas:** Pandas, Plotly, Numpy  
+🔹 **Bibliotecas:** Pandas, Plotly, Numpy, Seaborn  
 
 
 ---
